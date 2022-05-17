@@ -20,5 +20,23 @@
 }
 
 b{
-    color: brown;
+    color: darkblue;
+}
+
+/* Styling the banner image  */
+
+.myBanner{
+    background-image: url(../img/newly\ edited\ 2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 750px;
+    max-height: 850px;
+    width: 100%;
+}
+.myBanner .words{
+    margin-left: 50px;
+    margin-top: 350px;
+    text-align: center;
+    color: black;
+
 }
