@@ -33,10 +33,17 @@ b{
     max-height: 850px;
     width: 100%;
 }
-.myBanner .words{
+.myBanner .words{   
     margin-left: 50px;
     margin-top: 350px;
     text-align: center;
     color: black;
 
+}
+
+.carousel-inner h3, p{
+    color: black;
+}
+.carousel-inner h3{
+    color: white;
 }
