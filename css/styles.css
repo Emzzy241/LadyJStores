@@ -1,0 +1,24 @@
+/* Styling the universal selector  */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* styling the navigation bar  */
+
+.nav-link{
+    color: white;
+}
+
+.container label{
+    margin-right: 30%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+b{
+    color: brown;
+}
