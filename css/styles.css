@@ -86,3 +86,9 @@ hr{
 .locate h2{
     color: black;
 }
+
+/* Styling other webpages in our website  */
+
+.company{
+    text-align: center;
+}
