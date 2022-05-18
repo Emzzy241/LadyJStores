@@ -76,3 +76,13 @@ hr{
 .about h4{
     color: black;
 }
+
+/* styling the location part  */
+
+.locate{
+    text-align: center;
+}
+
+.locate h2{
+    color: black;
+}
