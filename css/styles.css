@@ -60,3 +60,19 @@ b{
 .about{
     text-align: center;
 }
+.row h4{
+    color: white;
+}
+hr{
+    color: white;
+}
+
+/* Styling the About us section  */
+
+.about h2{
+    color: black;
+}
+
+.about h4{
+    color: black;
+}
