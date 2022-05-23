@@ -20,32 +20,40 @@
 }
 
 b{
-    color: darkblue;
+    color: yellow;
 }
 
 /* Styling the banner image  */
 
 .myBanner{
-    background-image: url(../img/newly\ edited\ 2.png);
+    background-image: url(../img/165755_1592573818.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     min-height: 750px;
     max-height: 850px;
     width: 100%;
 }
 .myBanner .words{   
     margin-left: 50px;
-    margin-top: 350px;
-    text-align: center;
+    margin-top: 70px;
+    text-align: right;
     color: black;
 
 }
+.carousel-caption p{
+    background-color: white;
+}
 
-.carousel-inner h3, p{
+.carousel-caption h4, h6{
     color: black;
 }
-.carousel-inner h3{
+
+.carousel-inner p{
+    color: black;
+}
+.carousel-inner h3, h4, h6{
     color: white;
+    background-color: black;
 }
 
 /* Styling the Why choose us section  */
@@ -59,6 +67,9 @@ b{
 
 .about{
     text-align: center;
+}
+.about h4{
+    color: white;
 }
 .row h4{
     color: white;
@@ -74,7 +85,7 @@ hr{
 }
 
 .about h4{
-    color: black;
+    color: white;
 }
 
 /* styling the location part  */
